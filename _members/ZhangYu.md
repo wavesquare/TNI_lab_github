@@ -1,6 +1,6 @@
 ---
 name: Yu Zhang, Ms
-startdate: [xxx-xxx-xxx]
+startdate: [01-09-2022]
 enddate: []
 image: /docs/assets/members/YuZhang.jpg
 position: PhD Candidate
