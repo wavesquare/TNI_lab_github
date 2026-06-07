@@ -1,6 +1,6 @@
 ---
 name: Yixin Huang, Ms
-startdate: [xxx-xxx-xxx]
+startdate: [01-09-2022]
 enddate: []
 image: /docs/assets/members/yixin.jpg
 position: PhD Candidate
